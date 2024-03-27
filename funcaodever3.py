@@ -1,0 +1,2 @@
+from funcoes_utilizadas import contador_palavras
+contador_palavras()
