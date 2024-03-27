@@ -1,0 +1,2 @@
+from funcoes_utilizadas import conta_vocal_consoante
+conta_vocal_consoante()
